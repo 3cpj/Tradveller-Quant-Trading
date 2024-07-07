@@ -1,0 +1,1407 @@
+2024-07-08 01:29:50,942 - INFO - Loaded data shape: (1461, 6)
+2024-07-08 01:29:50,951 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:29:50,956 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:29:50,956 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:29:50,957 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:29:50,958 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:29:50,958 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:29:50,968 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:29:50,975 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:29:50,976 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:29:50,977 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:29:50,977 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:29:50,978 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:29:50,978 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:29:50,983 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:29:50,992 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:29:50,994 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:29:50,994 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:29:50,995 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:29:50,995 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:29:50,995 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:29:50,997 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:29:51,004 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:29:51,007 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:29:51,008 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:29:51,008 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:29:51,009 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:29:51,009 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:29:51,013 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:29:51,022 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:29:51,024 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:29:51,025 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:29:51,025 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:29:51,025 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:29:51,025 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:29:51,029 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:29:51,035 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:29:51,037 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:29:51,038 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:29:51,038 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:29:51,039 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:29:51,039 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:29:51,044 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:29:51,051 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:29:51,053 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:29:51,054 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:29:51,054 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:29:51,055 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:29:51,055 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:29:51,058 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:29:51,065 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:29:51,068 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:29:51,068 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:29:51,068 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:29:51,069 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:29:51,069 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:29:51,072 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:29:51,079 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:29:51,080 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:29:51,081 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:29:51,081 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:29:51,082 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:29:51,082 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:29:51,084 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:29:51,091 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:29:51,092 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:29:51,094 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:29:51,094 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:29:51,095 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:29:51,095 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:29:51,098 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:29:51,104 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:29:51,106 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:29:51,106 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:29:51,107 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:29:51,107 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:29:51,108 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:29:51,111 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:29:51,119 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:29:51,120 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:29:51,120 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:29:51,120 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:29:51,121 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:29:51,122 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:29:51,128 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:29:51,135 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:29:51,136 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:29:51,136 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:29:51,137 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:29:51,137 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:29:51,138 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:29:51,145 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:29:51,152 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:29:51,154 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:29:51,154 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:29:51,155 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:29:51,155 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:29:51,155 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:29:51,159 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:29:51,166 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:29:51,168 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:29:51,169 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:29:51,169 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:29:51,170 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:29:51,170 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:29:51,174 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:29:51,180 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:29:51,182 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:29:51,182 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:29:51,183 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:29:51,183 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:29:51,183 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:29:51,186 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:29:51,194 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:29:51,195 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:29:51,195 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:29:51,195 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:29:51,196 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:29:51,196 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:29:51,199 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:29:51,206 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:29:51,208 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:29:51,209 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:29:51,209 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:29:51,210 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:29:51,210 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:29:51,212 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:29:51,220 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:29:51,221 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:29:51,222 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:29:51,223 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:29:51,224 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:29:51,224 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:29:51,228 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:29:51,235 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:29:51,237 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:29:51,237 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:29:51,238 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:29:51,239 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:29:51,239 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:29:51,245 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:29:51,251 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:29:51,254 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:29:51,254 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:29:51,254 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:29:51,254 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:29:51,255 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:29:51,261 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:29:51,269 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:29:51,270 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:29:51,271 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:29:51,271 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:29:51,272 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:29:51,272 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:29:51,277 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:29:51,284 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:29:51,286 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:29:51,287 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:29:51,287 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:29:51,288 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:29:51,288 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:29:51,291 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:29:51,299 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:29:51,300 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:29:51,301 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:29:51,301 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:29:51,302 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:29:51,302 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:29:51,304 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:29:51,311 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:29:51,313 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:29:51,313 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:29:51,314 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:29:51,314 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:29:51,314 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:29:51,316 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:29:51,323 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:29:51,325 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:29:51,326 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:29:51,326 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:29:51,326 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:29:51,328 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:29:51,330 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:29:51,336 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:29:51,338 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:29:51,339 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:29:51,339 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:29:51,340 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:29:51,340 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:29:51,345 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:29:51,352 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:29:51,354 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:29:51,354 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:29:51,355 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:29:51,355 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:29:51,356 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:29:51,363 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:29:51,370 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:29:51,373 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:29:51,374 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:29:51,374 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:29:51,375 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:29:51,375 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:29:51,378 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:29:51,385 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:29:51,386 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:29:51,386 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:29:51,387 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:29:51,388 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:29:51,388 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:29:51,392 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:29:51,401 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:29:51,401 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:29:51,402 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:29:51,402 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:29:51,403 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:29:51,403 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:29:51,409 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:29:51,417 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:29:51,418 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:29:51,418 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:29:51,419 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:29:51,419 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:29:51,420 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:29:51,425 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:29:51,433 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:29:51,434 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:29:51,435 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:29:51,435 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:29:51,435 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:29:51,436 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:29:51,444 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:29:51,451 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:29:51,453 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:29:51,453 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:29:51,454 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:29:51,455 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:29:51,455 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:29:51,459 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:29:51,466 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:29:51,467 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:29:51,468 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:29:51,468 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:29:51,470 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:29:51,470 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:29:51,471 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:29:51,479 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:29:51,481 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:29:51,481 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:29:51,482 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:29:51,482 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:29:51,482 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:29:51,485 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:29:51,492 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:29:51,494 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:29:51,494 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:29:51,495 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:29:51,495 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:29:51,495 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:29:51,497 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:29:51,504 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:29:51,506 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:29:51,507 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:29:51,507 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:29:51,508 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:29:51,508 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:29:51,511 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:29:51,517 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:29:51,519 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:29:51,519 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:29:51,520 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:29:51,520 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:29:51,521 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:29:51,528 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:29:51,535 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:29:51,536 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:29:51,538 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:29:51,539 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:29:51,539 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:29:51,540 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:29:51,545 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:29:51,551 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:29:51,553 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:29:51,553 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:29:51,554 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:29:51,554 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:29:51,555 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:29:51,559 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:29:51,566 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:29:51,568 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:29:51,568 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:29:51,569 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:29:51,569 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:29:51,569 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:29:51,571 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:29:51,579 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:29:51,580 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:29:51,581 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:29:51,581 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:29:51,581 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:29:51,582 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:29:51,584 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:29:51,591 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:29:51,593 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:29:51,595 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:29:51,596 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:29:51,597 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:29:51,598 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:29:51,626 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:29:51,634 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:29:51,636 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:29:51,637 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:29:51,638 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:29:51,639 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:29:51,639 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:29:51,644 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:29:51,652 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:29:51,654 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:29:51,654 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:29:51,655 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:29:51,655 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:29:51,656 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:29:51,658 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:29:51,666 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:29:51,667 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:29:51,667 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:29:51,668 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:29:51,668 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:29:51,668 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:29:51,670 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:29:51,678 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:29:51,680 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:29:51,680 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:29:51,680 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:29:51,681 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:29:51,681 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:29:51,683 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:29:51,690 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:29:51,692 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:29:51,692 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:29:51,693 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:29:51,693 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:29:51,694 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:29:51,697 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:29:51,704 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:29:51,707 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:29:51,708 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:29:51,708 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:29:51,709 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:29:51,709 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:29:51,711 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:29:51,718 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:29:51,719 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:29:51,720 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:29:51,720 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:29:51,720 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:29:51,721 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:29:51,725 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:29:51,733 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:29:51,734 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:29:51,735 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:29:51,735 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:29:51,735 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:29:51,735 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:29:51,737 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:29:51,744 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:29:51,747 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:29:51,747 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:29:51,747 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:29:51,748 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:29:51,748 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:29:51,750 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:29:51,757 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:29:51,759 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:29:51,759 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:29:51,760 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:29:51,760 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:29:51,761 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:29:51,763 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:29:51,769 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:29:51,771 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:29:51,771 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:29:51,772 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:29:51,772 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:29:51,773 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:29:51,778 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:29:51,785 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:29:51,786 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:29:51,787 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:29:51,787 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:29:51,788 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:29:51,788 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:29:51,794 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:29:51,801 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:29:51,803 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:29:51,803 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:29:51,804 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:29:51,804 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:29:51,804 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:29:51,812 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:29:51,820 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:29:51,822 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:29:51,823 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:29:51,824 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:29:51,824 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:29:51,825 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:29:51,828 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:29:51,835 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:29:51,836 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:29:51,837 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:29:51,837 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:29:51,838 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:29:51,839 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:29:51,844 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:29:51,852 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:29:51,854 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:29:51,854 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:29:51,855 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:29:51,855 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:29:51,856 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:29:51,862 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:29:51,869 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:29:51,872 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:29:51,872 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:29:51,873 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:29:51,874 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:29:51,874 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:29:51,877 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:29:51,884 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:29:51,886 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:29:51,886 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:29:51,886 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:29:51,888 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:29:51,888 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:29:51,894 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:29:51,902 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:29:51,903 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:29:51,904 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:29:51,904 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:29:51,905 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:29:51,905 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:29:51,910 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:29:51,917 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:29:51,918 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:29:51,918 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:29:51,919 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:29:51,919 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:29:51,919 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:29:51,926 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:29:51,934 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:29:51,935 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:29:51,935 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:29:51,936 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:29:51,936 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:29:51,936 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:29:51,942 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:29:51,950 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:29:51,951 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:29:51,951 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:29:51,952 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:29:51,952 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:29:51,952 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:29:51,954 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:29:51,962 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:29:51,964 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:29:51,964 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:29:51,965 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:29:51,965 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:29:51,967 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:29:51,971 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:29:51,981 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:29:51,983 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:29:51,983 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:29:51,984 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:29:51,984 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:29:51,984 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:29:51,986 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:29:51,994 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:29:51,995 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:29:51,996 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:29:51,996 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:29:51,997 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:29:51,997 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:29:51,999 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:29:52,006 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:29:52,009 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:29:52,009 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:29:52,010 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:29:52,011 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:29:52,011 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:29:52,014 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:29:52,022 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:29:52,025 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:29:52,025 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:29:52,025 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:29:52,026 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:29:52,027 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:29:52,029 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:29:52,036 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:29:52,037 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:29:52,038 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:29:52,039 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:29:52,039 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:29:52,040 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:29:52,046 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:29:52,053 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:29:52,056 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:29:52,057 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:29:52,057 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:29:52,058 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:29:52,058 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:29:52,068 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:29:52,077 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:29:52,079 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:29:52,080 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:29:52,080 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:29:52,080 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:29:52,081 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:29:52,089 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:29:52,101 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:29:52,103 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:29:52,104 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:29:52,104 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:29:52,105 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:29:52,106 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:29:52,116 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:29:52,127 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:29:52,129 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:29:52,129 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:29:52,130 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:29:52,130 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:29:52,130 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:29:52,144 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:29:52,152 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:29:52,154 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:29:52,155 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:29:52,156 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:29:52,157 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:29:52,158 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:29:52,166 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:29:52,174 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:29:52,177 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:29:52,178 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:29:52,179 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:29:52,179 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:29:52,180 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:29:52,186 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:29:52,196 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:29:52,198 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:29:52,198 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:29:52,199 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:29:52,199 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:29:52,199 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:29:52,204 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:29:52,214 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:29:52,216 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:29:52,216 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:29:52,217 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:29:52,217 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:29:52,217 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:29:52,224 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:29:52,232 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:29:52,233 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:29:52,233 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:29:52,234 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:29:52,234 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:29:52,234 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:29:52,236 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:29:52,244 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:29:52,246 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:29:52,246 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:29:52,246 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:29:52,247 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:29:52,247 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:29:52,249 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:29:52,257 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:29:52,259 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:29:52,259 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:29:52,260 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:29:52,260 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:29:52,260 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:29:52,262 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:29:52,268 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:29:52,270 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:29:52,270 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:29:52,271 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:29:52,271 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:29:52,272 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:29:52,278 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:29:52,285 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:29:52,286 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:29:52,286 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:29:52,286 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:29:52,287 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:29:52,287 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:29:52,291 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:29:52,299 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:29:52,301 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:29:52,301 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:29:52,301 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:29:52,301 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:29:52,301 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:29:52,309 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:29:52,316 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:29:52,318 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:29:52,319 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:29:52,319 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:29:52,319 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:29:52,319 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:29:52,324 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:29:52,333 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:29:52,334 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:29:52,335 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:29:52,335 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:29:52,335 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:29:52,335 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:29:52,337 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:29:52,345 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:29:52,346 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:29:52,346 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:29:52,347 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:29:52,347 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:29:52,347 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:29:52,349 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:29:52,357 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:29:52,359 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:29:52,359 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:29:52,360 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:29:52,360 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:29:52,360 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:29:52,362 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:29:52,369 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:29:52,371 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:29:52,372 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:29:52,372 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:29:52,373 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:29:52,373 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:29:52,379 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:29:52,385 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:29:52,387 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:29:52,387 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:29:52,388 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:29:52,389 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:29:52,389 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:29:52,395 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:29:52,403 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:29:52,405 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:29:52,405 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:29:52,407 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:29:52,407 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:29:52,408 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:29:52,441 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:29:52,449 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:29:52,452 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:29:52,452 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:29:52,453 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:29:52,453 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:29:52,454 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:29:52,460 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:29:52,467 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:29:52,469 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:29:52,469 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:29:52,469 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:29:52,470 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:29:52,470 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:29:52,477 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:29:52,484 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:29:52,486 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:29:52,486 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:29:52,486 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:29:52,486 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:29:52,488 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:29:52,492 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:29:52,499 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:29:52,500 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:29:52,501 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:29:52,501 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:29:52,501 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:29:52,501 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:29:52,503 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:29:52,511 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:29:52,513 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:29:52,513 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:29:52,513 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:29:52,514 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:29:52,514 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:29:52,516 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:29:52,523 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:29:52,525 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:29:52,525 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:29:52,525 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:29:52,526 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:29:52,526 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:29:52,528 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:29:52,535 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:29:52,536 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:29:52,536 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:29:52,538 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:29:52,538 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:29:52,539 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:29:52,545 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:29:52,545 - INFO - Optimized factors with best MSE: 0.0010646405005074206
+2024-07-08 01:29:52,577 - INFO - Saved optimized factors to optimized_factors.csv
+2024-07-08 01:29:52,577 - ERROR - An error occurred: 'std_40'
+2024-07-08 01:38:37,671 - INFO - Loaded data shape: (1461, 6)
+2024-07-08 01:38:37,682 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:38:37,691 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:38:37,692 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:38:37,692 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:38:37,694 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:38:37,694 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:38:37,735 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:38:37,751 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:38:37,758 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:38:37,759 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:38:37,760 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:38:37,762 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:38:37,762 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:38:37,800 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:38:37,814 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:38:37,818 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:38:37,819 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:38:37,820 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:38:37,822 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:38:37,823 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:38:37,851 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:38:37,868 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:38:37,872 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:38:37,873 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:38:37,876 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:38:37,877 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:38:37,878 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:38:37,898 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:38:37,910 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:38:37,913 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:38:37,913 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:38:37,914 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:38:37,915 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:38:37,915 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:38:37,958 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:38:37,969 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:38:37,975 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:38:37,977 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:38:37,978 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:38:37,978 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:38:37,979 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:38:38,047 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:38:38,064 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:38:38,071 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:38:38,072 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:38:38,074 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:38:38,076 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:38:38,076 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:38:38,119 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:38:38,143 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:38:38,149 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:38:38,150 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:38:38,151 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:38:38,152 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:38:38,154 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:38:38,213 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:38:38,236 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:38:38,245 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:38:38,246 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:38:38,248 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:38:38,250 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:38:38,251 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:38:38,302 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:38:38,320 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:38:38,328 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:38:38,328 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:38:38,329 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:38:38,331 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:38:38,331 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:38:38,429 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:38:38,449 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:38:38,456 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:38:38,458 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:38:38,459 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:38:38,460 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:38:38,460 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:38:38,513 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:38:38,533 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:38:38,537 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:38:38,538 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:38:38,538 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:38:38,541 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:38:38,541 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:38:38,626 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:38:38,635 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:38:38,639 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:38:38,640 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:38:38,642 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:38:38,644 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:38:38,644 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:38:38,678 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:38:38,692 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:38:38,694 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:38:38,695 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:38:38,695 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:38:38,695 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:38:38,695 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:38:38,709 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:38:38,726 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:38:38,730 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:38:38,730 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:38:38,731 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:38:38,732 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:38:38,732 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:38:38,755 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:38:38,773 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:38:38,777 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:38:38,778 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:38:38,779 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:38:38,780 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:38:38,781 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:38:38,841 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:38:38,859 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:38:38,862 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:38:38,862 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:38:38,863 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:38:38,863 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:38:38,864 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:38:38,889 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:38:38,902 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:38:38,907 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:38:38,908 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:38:38,909 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:38:38,910 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:38:38,910 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:38:38,956 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:38:38,968 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:38:38,973 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:38:38,974 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:38:38,975 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:38:38,977 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:38:38,978 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:38:39,020 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:38:39,032 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:38:39,033 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:38:39,034 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:38:39,034 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:38:39,035 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:38:39,035 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:38:39,050 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:38:39,065 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:38:39,068 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:38:39,069 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:38:39,069 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:38:39,070 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:38:39,071 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:38:39,099 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:38:39,111 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:38:39,113 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:38:39,113 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:38:39,113 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:38:39,114 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:38:39,114 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:38:39,145 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:38:39,154 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:38:39,158 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:38:39,159 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:38:39,159 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:38:39,160 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:38:39,160 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:38:39,176 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:38:39,184 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:38:39,189 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:38:39,190 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:38:39,191 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:38:39,192 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:38:39,193 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:38:39,241 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:38:39,255 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:38:39,260 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:38:39,261 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:38:39,262 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:38:39,263 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:38:39,264 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:38:39,284 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:38:39,297 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:38:39,301 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:38:39,302 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:38:39,302 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:38:39,303 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:38:39,304 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:38:39,360 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:38:39,369 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:38:39,373 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:38:39,373 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:38:39,374 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:38:39,374 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:38:39,375 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:38:39,410 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:38:39,421 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:38:39,426 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:38:39,427 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:38:39,428 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:38:39,428 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:38:39,429 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:38:39,441 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:38:39,450 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:38:39,453 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:38:39,455 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:38:39,455 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:38:39,458 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:38:39,458 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:38:39,478 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:38:39,490 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:38:39,493 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:38:39,494 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:38:39,498 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:38:39,499 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:38:39,500 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:38:39,558 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:38:39,566 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:38:39,569 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:38:39,569 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:38:39,570 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:38:39,571 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:38:39,572 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:38:39,593 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:38:39,604 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:38:39,609 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:38:39,610 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:38:39,611 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:38:39,612 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:38:39,612 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:38:39,632 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:38:39,641 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:38:39,643 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:38:39,643 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:38:39,644 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:38:39,644 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:38:39,644 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:38:39,667 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:38:39,681 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:38:39,683 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:38:39,684 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:38:39,685 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:38:39,685 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:38:39,685 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:38:39,744 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:38:39,757 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:38:39,760 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:38:39,761 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:38:39,761 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:38:39,762 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:38:39,763 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:38:39,808 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:38:39,817 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:38:39,819 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:38:39,819 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:38:39,820 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:38:39,822 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:38:39,823 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:38:39,833 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:38:39,845 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:38:39,848 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:38:39,848 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:38:39,849 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:38:39,849 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:38:39,849 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:38:39,883 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:38:39,893 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:38:39,897 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:38:39,897 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:38:39,898 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:38:39,898 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:38:39,899 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:38:39,907 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:38:39,917 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:38:39,919 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:38:39,920 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:38:39,922 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:38:39,924 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:38:39,925 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:38:39,939 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:38:39,954 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:38:39,960 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:38:39,961 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:38:39,961 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:38:39,962 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:38:39,962 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:38:39,977 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:38:39,986 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:38:39,991 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:38:39,992 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:38:39,992 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:38:39,993 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:38:39,993 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:38:40,015 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:38:40,029 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:38:40,032 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:38:40,032 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:38:40,033 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:38:40,033 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:38:40,033 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:38:40,045 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:38:40,062 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:38:40,065 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:38:40,066 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:38:40,066 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:38:40,069 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:38:40,069 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:38:40,091 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:38:40,101 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:38:40,106 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:38:40,107 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:38:40,109 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:38:40,110 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:38:40,111 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:38:40,119 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:38:40,134 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:38:40,137 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:38:40,138 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:38:40,140 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:38:40,141 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:38:40,142 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:38:40,192 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:38:40,199 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:38:40,202 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:38:40,203 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:38:40,204 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:38:40,205 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:38:40,207 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:38:40,247 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:38:40,259 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:38:40,262 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:38:40,262 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:38:40,263 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:38:40,263 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:38:40,264 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:38:40,282 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:38:40,295 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:38:40,297 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:38:40,297 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:38:40,298 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:38:40,298 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:38:40,299 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:38:40,312 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:38:40,323 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:38:40,327 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:38:40,327 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:38:40,328 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:38:40,328 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:38:40,328 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:38:40,350 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:38:40,360 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:38:40,362 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:38:40,362 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:38:40,363 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:38:40,363 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:38:40,363 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:38:40,394 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:38:40,409 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:38:40,412 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:38:40,413 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:38:40,413 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:38:40,414 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:38:40,414 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:38:40,437 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:38:40,451 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:38:40,455 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:38:40,456 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:38:40,457 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:38:40,458 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:38:40,459 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:38:40,513 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:38:40,526 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:38:40,529 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:38:40,529 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:38:40,530 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:38:40,530 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:38:40,531 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:38:40,540 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:38:40,548 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:38:40,551 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:38:40,551 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:38:40,552 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:38:40,552 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:38:40,553 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:38:40,562 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:38:40,570 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:38:40,574 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:38:40,575 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:38:40,575 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:38:40,575 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:38:40,575 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:38:40,612 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:38:40,619 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:38:40,624 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:38:40,625 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:38:40,625 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:38:40,625 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:38:40,625 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:38:40,635 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:38:40,648 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:38:40,650 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:38:40,651 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:38:40,651 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:38:40,651 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:38:40,652 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:38:40,661 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:38:40,669 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:38:40,675 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:38:40,675 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:38:40,675 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:38:40,677 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:38:40,677 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:38:40,692 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:38:40,703 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:38:40,711 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:38:40,711 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:38:40,712 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:38:40,713 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:38:40,714 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:38:40,749 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:38:40,762 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:38:40,765 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:38:40,766 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:38:40,767 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:38:40,768 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:38:40,768 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:38:40,797 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:38:40,814 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:38:40,818 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:38:40,819 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:38:40,825 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:38:40,830 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:38:40,831 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:38:40,878 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:38:40,891 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:38:40,894 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:38:40,894 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:38:40,895 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:38:40,895 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:38:40,896 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:38:40,922 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:38:40,931 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:38:40,934 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:38:40,934 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:38:40,935 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:38:40,935 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:38:40,935 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:38:40,946 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:38:40,955 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:38:40,959 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:38:40,959 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:38:40,959 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:38:40,960 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:38:40,960 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:38:40,970 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:38:40,982 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:38:40,985 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:38:40,986 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:38:40,987 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:38:40,988 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:38:40,988 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:38:41,008 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:38:41,017 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:38:41,020 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:38:41,021 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:38:41,023 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:38:41,026 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:38:41,026 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:38:41,043 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:38:41,051 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:38:41,054 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:38:41,055 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:38:41,055 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:38:41,057 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:38:41,057 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:38:41,059 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:38:41,066 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:38:41,068 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:38:41,068 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:38:41,069 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:38:41,069 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:38:41,069 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:38:41,075 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:38:41,082 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:38:41,084 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:38:41,084 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:38:41,084 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:38:41,085 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:38:41,085 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:38:41,090 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:38:41,097 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:38:41,099 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:38:41,099 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:38:41,099 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:38:41,101 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:38:41,101 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:38:41,103 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:38:41,110 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:38:41,112 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:38:41,112 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:38:41,113 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:38:41,113 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:38:41,114 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:38:41,115 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:38:41,124 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:38:41,126 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:38:41,126 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:38:41,126 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:38:41,127 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:38:41,127 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:38:41,130 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:38:41,138 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:38:41,141 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:38:41,141 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:38:41,142 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:38:41,142 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:38:41,143 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:38:41,145 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:38:41,152 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:38:41,155 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:38:41,156 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:38:41,157 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:38:41,157 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:38:41,157 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:38:41,160 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:38:41,167 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:38:41,168 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:38:41,169 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:38:41,169 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:38:41,170 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:38:41,170 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:38:41,174 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:38:41,181 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:38:41,183 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:38:41,183 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:38:41,184 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:38:41,184 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:38:41,185 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:38:41,188 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:38:41,195 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:38:41,198 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:38:41,198 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:38:41,199 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:38:41,199 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:38:41,199 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:38:41,201 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:38:41,208 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:38:41,211 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:38:41,211 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:38:41,212 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:38:41,212 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:38:41,212 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:38:41,214 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:38:41,221 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:38:41,223 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:38:41,224 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:38:41,224 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:38:41,225 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:38:41,225 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:38:41,227 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:38:41,234 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:38:41,235 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:38:41,236 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:38:41,236 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:38:41,236 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:38:41,237 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:38:41,249 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:38:41,261 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:38:41,263 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:38:41,263 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:38:41,264 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:38:41,264 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:38:41,265 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:38:41,272 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:38:41,281 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:38:41,283 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:38:41,284 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:38:41,284 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:38:41,285 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:38:41,285 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:38:41,293 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:38:41,302 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:38:41,306 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:38:41,307 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:38:41,308 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:38:41,310 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:38:41,310 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:38:41,316 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:38:41,327 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:38:41,329 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:38:41,329 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:38:41,330 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:38:41,330 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:38:41,331 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:38:41,341 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:38:41,350 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:38:41,352 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:38:41,352 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:38:41,353 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:38:41,354 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:38:41,356 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:38:41,367 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:38:41,378 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:38:41,380 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:38:41,380 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:38:41,380 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:38:41,381 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:38:41,381 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:38:41,392 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:38:41,399 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:38:41,401 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:38:41,401 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:38:41,402 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:38:41,402 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:38:41,403 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:38:41,425 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:38:41,433 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:38:41,435 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:38:41,435 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:38:41,435 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:38:41,438 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:38:41,438 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:38:41,451 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:38:41,461 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:38:41,463 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:38:41,463 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:38:41,464 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:38:41,464 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:38:41,464 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:38:41,477 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:38:41,485 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:38:41,488 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:38:41,489 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:38:41,490 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:38:41,491 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:38:41,491 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:38:41,509 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:38:41,517 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:38:41,520 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:38:41,520 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:38:41,521 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:38:41,522 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:38:41,523 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:38:41,538 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:38:41,547 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:38:41,549 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:38:41,549 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:38:41,550 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:38:41,550 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:38:41,550 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:38:41,557 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:38:41,565 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:38:41,567 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:38:41,567 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:38:41,567 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:38:41,568 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:38:41,568 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:38:41,577 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:38:41,584 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:38:41,585 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:38:41,585 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:38:41,587 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:38:41,587 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:38:41,587 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:38:41,592 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:38:41,598 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:38:41,600 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:38:41,600 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:38:41,600 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:38:41,601 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:38:41,601 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:38:41,603 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:38:41,611 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:38:41,613 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:38:41,613 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:38:41,613 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:38:41,614 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:38:41,614 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:38:41,616 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:38:41,623 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:38:41,625 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:38:41,625 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:38:41,626 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:38:41,626 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:38:41,626 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:38:41,628 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:38:41,635 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:38:41,637 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:38:41,638 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:38:41,638 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:38:41,639 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:38:41,639 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:38:41,643 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:38:41,650 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:38:41,651 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:38:41,652 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:38:41,652 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:38:41,653 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:38:41,653 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:38:41,657 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:38:41,664 - INFO - Generated factors shape: (1361, 15)
+2024-07-08 01:38:41,667 - INFO - Shape of valid_factors: (1361, 15)
+2024-07-08 01:38:41,667 - INFO - Shape of valid_returns: (1361,)
+2024-07-08 01:38:41,667 - INFO - Number of NaN in valid_returns: 1
+2024-07-08 01:38:41,668 - INFO - Shape of X after removing NaNs: (1360, 15)
+2024-07-08 01:38:41,668 - INFO - Shape of y after removing NaNs: (1360,)
+2024-07-08 01:38:41,670 - INFO - Evaluated factors with MSE: 0.0010646405005074206
+2024-07-08 01:38:41,671 - INFO - Optimized factors with best MSE: 0.0010646405005074206
+2024-07-08 01:38:41,674 - ERROR - An error occurred: [Errno 13] Permission denied: 'optimized_factors.csv'
